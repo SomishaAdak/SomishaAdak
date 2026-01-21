@@ -1,6 +1,6 @@
 ## Hi there👋 I'm Somisha Adak
 
-Backend-focused Computer Science student with a strong interest in
+Backend-focused Pre-Final Year Computer Science student with a strong interest in
 open-source development and systems built with Python.
 Currently preparing for Google Summer of Code 2026.
 
@@ -22,7 +22,7 @@ Currently preparing for Google Summer of Code 2026.
 
 ### 📫 Reach me
 - Email: somisha.adak@gmail.com
-
+- Linked In: www.linkedin.com/in/somisha-adak-886522370
 
 
 <!--
