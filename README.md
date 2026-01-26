@@ -1,4 +1,4 @@
-## Hi there👋 I'm Somisha Adak
+## Hi there! I'm Somisha Adak
 
 Backend-focused Pre-Final Year Computer Science student with a strong interest in
 open-source development and systems built with Python.
