@@ -22,7 +22,7 @@ Currently preparing for Google Summer of Code 2026.
 
 ### 📫 Reach me
 - Email: somisha.adak@gmail.com
-- Linked In: www.linkedin.com/in/somisha-adak-886522370
+- LinkedIn: www.linkedin.com/in/somisha-adak-886522370
 
 
 <!--
