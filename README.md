@@ -16,7 +16,7 @@ Currently preparing for Google Summer of Code 2026.
 - Tools: Git, GitHub, Docker (basic)
 
 ### 🌱 Open Source
-- Actively learning how to contribute to real-world Python projects
+- Actively learning how to contribute to real-world projects
 - Focusing on writing clean, readable, and testable code
 - Interested in backend tooling, developer tools, and infra-related projects
 
