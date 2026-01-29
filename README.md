@@ -4,7 +4,7 @@ Backend-focused Pre-Final Year Computer Science student with a strong interest i
 open-source development and systems built with Python.
 Currently preparing for Google Summer of Code 2026.
 
-### 🔭 What I’m working on
+### 🔭 I’m currently working on
 - Building backend fundamentals using Python
 - Exploring open-source codebases
 - Preparing for GSoC 2026 contributions
