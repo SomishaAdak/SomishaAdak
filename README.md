@@ -10,10 +10,10 @@ Currently preparing for Google Summer of Code 2026.
 - Preparing for GSoC 2026 contributions
 
 ### 🛠 Tech Stack
-- Languages: Python, SQL
+- Languages: Python, C/C++
 - Backend: FastAPI (learning)
 - Databases: PostgreSQL
-- Tools: Git, GitHub, Docker (basic)
+- Tools: Git, GitHub, Docker (basics)
 
 ### 🌱 Open Source
 - Actively learning how to contribute to real-world projects
