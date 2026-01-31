@@ -20,7 +20,7 @@ Currently preparing for Google Summer of Code 2026.
 - Focusing on writing clean, readable, and testable code
 - Interested in backend tooling, developer tools, and infra-related projects
 
-### 📫 Reach me
+### 📫 Reach me through - 
 - Email: somisha.adak@gmail.com
 - LinkedIn: www.linkedin.com/in/somisha-adak-886522370
 
