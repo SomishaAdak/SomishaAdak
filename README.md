@@ -13,7 +13,7 @@ Currently preparing for Google Summer of Code 2026.
 - Languages: Python, C/C++
 - Backend: FastAPI (learning)
 - Databases: PostgreSQL
-- Tools: Git, GitHub, Docker (basics)
+- Tools: Git, GitHub
 
 ### 🌱 Open Source
 - Actively learning how to contribute to real-world projects
