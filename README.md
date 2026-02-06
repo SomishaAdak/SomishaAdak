@@ -10,7 +10,7 @@ Currently preparing for Google Summer of Code 2026.
 
 ### 🛠 Tech Stack
 - Languages: Python, C/C++
-- Backend: FastAPI (learning)
+- Backend: REST APIs
 - Databases: PostgreSQL
 - Tools: Git, GitHub, Docker (basics)
 
