@@ -12,7 +12,7 @@ Currently preparing for Google Summer of Code 2026.
 - Languages: Python, C/C++
 - Backend: REST APIs
 - Databases: PostgreSQL
-- Tools: Git, GitHub, Docker (basics)
+- Tools: Git, GitHub, Docker
 
 ### 🌱 Open Source
 - Actively learning how to contribute to real-world projects
