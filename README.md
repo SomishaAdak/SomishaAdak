@@ -6,7 +6,7 @@ Currently preparing for Google Summer of Code 2026.
 ### 🔭 I’m currently working on
 - Building backend fundamentals using Python
 - Exploring open-source codebases
-- Prepping for GSoC 2026 
+- Preparing for GSoC 2026 
 
 ### 🛠 Tech Stack
 - Languages: Python, C/C++
