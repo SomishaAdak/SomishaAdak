@@ -1,6 +1,7 @@
 ## Hi there! I'm Somisha Adak
 
 Backend-focused Computer Science student with a strong interest in open-source development and systems built with Python.
+GSOC '26 contributor aspirant
 
 ### 🔭 I’m currently working on
 - Building backend fundamentals using Python
