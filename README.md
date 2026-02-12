@@ -16,7 +16,7 @@ GSOC '26 contributor aspirant
 
 ### 🌱 Open Source
 - Actively learning how to contribute to real-world projects
-- Focusing on writing clean, readable, and testable code
+- Focusing on writing clean, standardised, readable, and testable code
 - Interested in backend tooling, developer tools, and infra-related projects
 
 ### 📫 Reach me through - 
