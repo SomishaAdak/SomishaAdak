@@ -6,7 +6,7 @@ GSOC '26 contributor aspirant
 ### 🔭 I’m currently working on
 - Building backend fundamentals using Python
 - Exploring open-source codebases
-- Preparing for GSoC'26
+- Preparing for Google summer of Code 2026
 
 ### 🛠 Tech Stack
 - Languages: Python, C/C++, Java
