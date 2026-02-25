@@ -11,7 +11,7 @@ GSOC '26 contributor aspirant
 ### 🛠 Tech Stack
 - Languages: Python, C/C++, Java
 - Backend: REST APIs
-- Databases: PostgreSQL, SQLite
+- Databases: PostgreSQL
 - Tools: Git, GitHub, Docker (basics)
 
 ### 🌱 Open Source
