@@ -12,7 +12,7 @@ GSOC '26 contributor aspirant
 - Languages: Python, C/C++, Java
 - Backend: REST APIs
 - Databases: PostgreSQL
-- Tools: Git, GitHub, Docker (basics)
+- Tools: Git, GitHub, Docker 
 
 ### 🌱 Open Source
 - Actively learning how to contribute to real-world projects
