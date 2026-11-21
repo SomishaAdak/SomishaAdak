@@ -1,22 +1,59 @@
-## Hi there! I'm Somisha Adak
 
-Backend-focused Computer Science student with a strong interest in open-source development and systems built with Python.
+# Hi, I'm Somisha Adak 👋
 
-### 🔭 I’m currently working on
-- Building backend fundamentals using Python
-- Exploring open-source codebases
+### Building at the intersection of Technology, Data & Problem Solving.
 
-### 🛠 Tech Stack
-- Languages: Python, C/C++, Java
-- Backend: REST APIs
-- Databases: PostgreSQL
-- Tools: Git, GitHub, Docker 
+I'm a final-year B.Tech Information Technology student interested in building practical software solutions, working with data, and understanding how technology drives business decisions.
+
+I enjoy working with databases, backend systems, analytics and real-world problem statements.
+
+Currently exploring opportunities in **Business Analytics, Product Analytics, Data/BI and Software Engineering.**
+
+---
+
+### 🚀 What I'm Working On
+
+- Strengthening my SQL, Python and backend development skills.
+- Building data-driven projects and analytical case studies.
+- Exploring real-world open-source codebases and contributing to developer communities.
+- Learning how to translate technical problems into practical solutions.
+
+### 🛠️ Tech Stack
+
+**Languages**
+- Python, Java, JavaScript
+
+**Data & Analytics**
+- SQL, PostgreSQL, Excel, Power BI, Pandas, Numpy
+
+**Backend & Development**
+- Node.js, Express.js, REST APIs, React
+
+**Databases**
+- PostgreSQL, SQLite
+
+**Tools & Platforms**
+- Git, GitHub, Docker, Streamlit
+
+### 💡 Featured Projects
+
+- **EduPath** – An education analytics platform focused on student performance and data-driven insights.
+- **DBT Buddy** – A web-based platform built to simplify access to DBT-related information.
+- **Moodify** – An AI-powered application exploring emotion and mood classification.
+- **Nidhi Rakshak** – A cybersecurity-focused application exploring secure data management.
 
 ### 🌱 Open Source
-- Actively learning how to contribute to real-world projects
-- Focusing on writing clean, standardised and testable code
-- Interested in backend tooling, developer tools, and infra-related projects
 
-### 📫 Reach me through - 
-- Email: somisha.adak@gmail.com
-- LinkedIn: www.linkedin.com/in/somisha-adak-886522370
+- Exploring and contributing to real-world open-source projects.
+- Interested in backend tooling, developer tools and data infrastructure.
+- Learning collaborative development practices, code reviews and testing.
+
+### 📫 Let's Connect
+
+- **Email:** somisha.adak@gmail.com
+- **LinkedIn:** [Somisha Adak](https://www.linkedin.com/in/somisha-adak-886522370/)
+- **Portfolio:** [somishaadak.github.io](https://somishaadak.github.io/)
+
+---
+
+*Always learning. Always building. Always curious.*
